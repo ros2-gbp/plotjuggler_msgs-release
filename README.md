@@ -1,3 +1,26 @@
+## plotjuggler_msgs (rolling) - 0.2.0-1
+
+The packages in the `plotjuggler_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling plotjuggler_msgs -y` on `Fri, 01 Oct 2021 17:37:29 -0000`
+
+The `plotjuggler_msgs` package was released.
+
+Version of package(s) in repository `plotjuggler_msgs`:
+
+- upstream repository: https://github.com/facontidavide/plotjuggler_msgs.git
+- release repository: https://github.com/facontidavide/plotjuggler_msgs-release.git
+- rosdistro version: `0.1.2-2`
+- old version: `0.1.2-2`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## plotjuggler_msgs (foxy) - 0.2.0-1
 
 The packages in the `plotjuggler_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy plotjuggler_msgs -y` on `Fri, 01 Oct 2021 17:34:57 -0000`
